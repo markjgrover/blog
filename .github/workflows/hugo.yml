@@ -24,6 +24,11 @@ jobs:
           hugo-version: '0.141.0'
           extended: true
 
+      - name: Patch Blowfish theme
+        run: |
+          find themes/blowfish/layouts -name "*.html" -exec sed -i 's/\.Locale/.Lang/g' {} \;
+          sed -i 's/{{ \$authorsData := hugo\.Data\.authors }}/{{ $authorsData := (index site.Data "authors" | default slice) }}/' themes/blowfish/layouts/_default/single.html
+
       - name: Build
         run: hugo --minify
 
