@@ -147,10 +147,10 @@ Building it for a personal use case produced a reusable template.
 
 The full project — scanner, Gmail OAuth setup, FTP configuration, Task Scheduler automation, and CRM dashboard — is open source at:
 
-**[github.com/yourusername/ai-job-scanner](https://github.com/yourusername/ai-job-scanner)**
+**[github.com/markjgrover/ai-job-scanner](https://github.com/markjgrover/ai-job-scanner)**
 
 If you're a job seeker with basic technical comfort, you can have a working version running in an afternoon. Zero npm packages. One config file. Runs on hardware you already own.
 
 ---
 
-_I'm a Senior Technical Program Manager open to remote roles in AI/ML platforms, EdTech, and enterprise SaaS. Connect on [LinkedIn](#)._
+_I'm a Senior Technical Program Manager open to remote roles in AI/ML platforms, EdTech, and enterprise SaaS. Connect on [LinkedIn](https://www.linkedin.com/in/markjgrover/)._
