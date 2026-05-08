@@ -17,7 +17,7 @@ title = "Mark Grover's Blog"
  [params.author]
    name = "Mark J Grover"
    email = "mark@markjgrover.com"
-   image = "imb/mark_logo.png"
+   image = "img/mark_logo.png"
    headline = "Ramblings of a curious IT guy"
    bio = "I am more than a title: I am curious and thrive on challenges. Learning = Life"
    links = [
