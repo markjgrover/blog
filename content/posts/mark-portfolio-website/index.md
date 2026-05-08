@@ -92,7 +92,7 @@ I built it this way because I'd thought carefully about what the data model need
 
 ## The Source Code
 
-The full source is on GitHub. The `data/portfolio.json` file is particularly worth a look if you're thinking about how to structure content for a multi-role portfolio — the schema took the most iteration to get right, and I think it ended up in a good place.
+The full source is on GitHub at **[github.com/markjgrover/markjgrover.com](https://github.com/markjgrover/markjgrover.com)**. The `data/portfolio.json` file is particularly worth a look if you're thinking about how to structure content for a multi-role portfolio — the schema took the most iteration to get right, and I think it ended up in a good place.
 
 If you're building your own portfolio and want to adapt this approach, the key insight is this: **separate your content from your presentation completely, and make role relevance a property of the data, not the UI.** Everything else follows from that.
 
