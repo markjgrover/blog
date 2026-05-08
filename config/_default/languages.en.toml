@@ -1,5 +1,6 @@
 languageCode = "en"
 languageName = "English"
+disabled = false
 weight = 1
 title = "Mark Grover's Blog"
 
@@ -8,19 +9,20 @@ title = "Mark Grover's Blog"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  # logo = "img/logo.png"
+  logo = "img/mg-logo.svg"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 
- [author]
+ [params.author]
    name = "Mark J Grover"
-   image = "profile.jpg"
-   headline = "I'm only human"
-   bio = "A little bit about you"
+   email = "mark@markjgrover.com"
+   image = "imb/mark_logo.png"
+   headline = "Ramblings of a curious IT guy"
+   bio = "I am more than a title: I am curious and thrive on challenges. Learning = Life"
    links = [
 #     { email = "mailto:hello@your_domain.com" },
-     { link = "https://blowfish.page/" },
+#     { link = "https://blowfish.page/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
 #     { blogger = "https://username.blogspot.com/" },
@@ -31,7 +33,7 @@ title = "Mark Grover's Blog"
 #     { facebook = "https://facebook.com/username" },
 #     { flickr = "https://www.flickr.com/photos/username/" },
 #     { foursquare = "https://foursquare.com/username" },
-     { github = "https://github.com/nunocoracao/blowfish" },
+#     { github = "https://github.com/nunocoracao/blowfish" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
