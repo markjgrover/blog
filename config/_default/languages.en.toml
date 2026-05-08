@@ -9,7 +9,7 @@ title = "Mark Grover's Blog"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/mg-logo.svg"
+  logo = "mg-logo.svg"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
@@ -17,7 +17,7 @@ title = "Mark Grover's Blog"
  [params.author]
    name = "Mark J Grover"
    email = "mark@markjgrover.com"
-   image = "img/mark_logo.png"
+   image = "mark_logo.png"
    headline = "Ramblings of a curious IT guy"
    bio = "I am more than a title: I am curious and thrive on challenges. Learning = Life"
    links = [
