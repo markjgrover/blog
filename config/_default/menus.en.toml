@@ -16,7 +16,7 @@
   url = "https://www.linkedin.com/in/markjgrover/"
   weight = 10
 [[main]]
-  name = "Profile"
+  name = "Portfolio"
   pre = "globe"
   url = "https://www.markjgrover.com/"
   weight = 5
