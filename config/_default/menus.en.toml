@@ -14,7 +14,7 @@
   name = "LinkedIn"
   pre = "linkedin"
   url = "https://www.linkedin.com/in/markjgrover/"
-  weight = 10
+  weight = 15
 [[main]]
   name = "Portfolio"
   pre = "globe"
@@ -23,7 +23,13 @@
 [[main]]
   name = "Posts"
   pageRef = "posts"
-  weight = 15
+  weight = 20
+[[main]]
+  name = "GitHub"
+  pre = "github"
+  url = "https://github.com/markjgrover"
+  weight = 10
+
 #[[main]]
 #   name = "Training"
 #   pageRef = "https://training.markjgrover.com/"
