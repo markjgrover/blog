@@ -8,11 +8,11 @@ tags: ["AI", "Learning"]
 
 # From Ad Hoc to Operationalized: My Takeaways from All Things AI 2026
 
-_March 2026 | Durham, North Carolina_
+**March 23-24, 2026 · Durham, NC · All Things AI Conference**
 
----
+{{< figure src="2026_ATAI.jpg" title="All Things AI Conference 2026" caption="All Things AI Conference 2026" >}}
 
-I walked into the Sheraton Imperial Hotel & Convention Center in Durham last week with a stat stuck in my head — one I'd shared on LinkedIn before the conference even started:
+I walked into the Durham Convention Center in Durham, NC with a stat stuck in my head — one I'd shared on LinkedIn before the conference even started:
 
 > **88% of people use AI. Only 6% see real impact.**
 
@@ -41,7 +41,7 @@ The numbers tell a compelling story:
 
 Nearly half of all registrants — 48.5% — had direct influence over spending decisions at their organizations. This wasn't an academic crowd. These were practitioners, builders, and leaders who are actually deploying AI in the real world.
 
----
+{{< figure src="Mark_ATAI.jpg" title="Mark @ All Things AI Conference 2026" caption="Mark @ All Things AI Conference 2026" >}}
 
 ## Why I Was There: The AI for Business Professionals Track
 
@@ -67,11 +67,12 @@ This framing resonated most with me. Prompting is a skill. System building is a 
 
 The sessions were packed, but a few moments stood out:
 
-- **IBM's Luis Lastras** opened the keynotes with a clear-eyed look at where enterprise AI actually stands vs. where the hype says it should be.
-- **whurley** ran a live demo of an autonomous agent — the kind of thing that moves AI from "interesting" to "this changes how we work."
-- **Yassah Reed** gave one of the most important talks of the day on how biased data in healthcare AI models is creating real-world harm — a reminder that responsible AI isn't optional.
-- **Microsoft's Ben Heller** (Field CTO) spoke to the practical realities of AI adoption inside large organizations.
-- **Don Shin of Crosscomm** led an AI Agents Workshop that was one of the most hands-on sessions I attended.
+- **IBM's Luis Lastras** <a href="https://www.linkedin.com/in/luis-lastras-9a862a14/" target="_blank"><img src="li.png" alt="LinkedIn" width="16" style="display:inline; margin: 0px; pointer-events: none"></a> opened the keynotes with a clear-eyed look at where enterprise AI actually stands vs. where the hype says it should be.
+
+- **Whurley** <a href="https://www.linkedin.com/in/whurley/" target="_blank"><img src="li.png" alt="LinkedIn" width="16" style="display:inline; margin: 0px; pointer-events: none"></a> ran a live demo of an autonomous agent — the kind of thing that moves AI from "interesting" to "this changes how we work."
+- **Yassah Reed** <a href="https://www.linkedin.com/in/yassahreed/" target="_blank"><img src="li.png" alt="LinkedIn" width="16" style="display:inline; margin: 0px; pointer-events: none"></a> gave one of the most important talks of the day on how biased data in healthcare AI models is creating real-world harm — a reminder that responsible AI isn't optional.
+- **Microsoft's Ben Heller** <a href="https://www.linkedin.com/in/ben-g-heller/" target="_blank"><img src="li.png" alt="LinkedIn" width="16" style="display:inline; margin: 0px; pointer-events: none"></a> (Field CTO) spoke to the practical realities of AI adoption inside large organizations.
+- **Don Shin of Crosscomm** <a href="https://www.linkedin.com/in/donshin1/" target="_blank"><img src="li.png" alt="LinkedIn" width="16" style="display:inline; margin: 0px; pointer-events: none"></a> led an AI Agents Workshop that was one of the most hands-on sessions I attended.
 
 ---
 
@@ -100,7 +101,3 @@ If you're on the fence about attending, ask yourself: are you an ad hoc user, or
 ---
 
 _Want to learn more about the conference? The official [All Things AI 2027 Conference page](https://2027.allthingsai.org/) check it out!_
-
----
-
-_Tags: #AI #AllThingsAI #AIWorkflows #BusinessAI #OperationalAI #RaleighDurham_

@@ -8,17 +8,13 @@ tags: ["AI", "Learning", "nodejs", "claude"]
 
 # How I Built an AI-Powered Job Search Engine in an Afternoon — And Why Every Job Seeker Should Do the Same
 
-_Tags: ai, nodejs, productivity, jobsearch, claude_
-
----
-
 If you've been job hunting recently, you know the drill. You wake up, open your inbox, and there they are — a wall of emails from LinkedIn, Indeed, Jobright, and Built In, each one containing anywhere from one to fifteen job listings that may or may not be relevant to you. You open each one. You skim. You copy and paste the interesting ones somewhere. You forget which ones you already looked at. You apply to a few. You lose track of where you applied. Repeat tomorrow.
 
 I was spending one to two hours a day on this process. As a Senior Technical Program Manager who has spent a decade building platforms, automating workflows, and eliminating operational inefficiencies at scale — I finally got tired of the irony.
 
 So I built a solution. And it works.
 
----
+{{< figure src="job_scanner.png" title="Job Scanner Dashboard" caption="Job Scanner Dashboard" >}}
 
 ## The Problem, Stated Plainly
 
@@ -71,7 +67,7 @@ The ranked results are compiled into a single HTML dashboard and published to my
 - A ranked job grid with score badges, salary tags, and source filters
 - Three tabs: All Jobs, My Pipeline, Weekly Report
 - Owner authentication — anyone can view, only I can update application statuses
-- Full application pipeline tracking: Applied → Phone Screen → Interview → Offer → Rejected
+- Full application pipeline tracking status: Applied → Phone Screen → Interview → Offer → Rejected
 - Status changes sync to the server and are visible from any device
 
 ---
@@ -153,4 +149,4 @@ If you're a job seeker with basic technical comfort, you can have a working vers
 
 ---
 
-_I'm a Senior Technical Program Manager open to remote roles in AI/ML platforms, EdTech, and enterprise SaaS. Connect on [LinkedIn](https://www.linkedin.com/in/markjgrover/)._
+_I'm a Senior Technical Program Manager open to remote roles in AI/ML platforms, EdTech, DevRel, and enterprise SaaS. Connect on [LinkedIn](https://www.linkedin.com/in/markjgrover/)._

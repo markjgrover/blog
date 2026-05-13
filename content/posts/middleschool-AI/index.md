@@ -8,7 +8,7 @@ tags: ["AI", "Learning"]
 
 # Teaching Middle Schoolers How AI Really Works
 
-Yesterday I had the opportunity to teach a group of middle school students at the Honors Guild Homeschool Cooperative in Wilmington, North Carolina about Artificial Intelligence — and honestly, it was one of the most rewarding experiences I’ve had in a long time.
+Yesterday I had the opportunity to teach a group of middle school students at the Honours Guild Homeschool Cooperative in Wilmington, North Carolina about Artificial Intelligence — and honestly, it was one of the most rewarding experiences I’ve had in a long time.
 
 When most people hear “AI,” they think about futuristic robots, ChatGPT, or something mysterious happening inside giant data centers. But my goal wasn’t to impress students with complicated technical jargon.
 
@@ -258,3 +258,7 @@ Huge thank you to Gina Good and the Honors Guild Homeschool Cooperative for the 
 The future is going to belong to people who understand not just how to use AI — but how AI uses us.
 
 And based on the conversations yesterday, I’m optimistic about the next generation.
+
+---
+
+_I'm a Senior Technical Program Manager open to remote roles in AI/ML platforms, EdTech, DevRel, and enterprise SaaS. Connect on [LinkedIn](https://www.linkedin.com/in/markjgrover/)._

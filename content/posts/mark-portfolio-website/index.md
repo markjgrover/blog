@@ -8,15 +8,15 @@ tags: ["AI", "Learning"]
 
 # How I Built My Portfolio Without Letting AI Write My Code
 
-_May 2026_
-
 ---
 
 There's a version of this project where I open Claude or ChatGPT, paste in "build me a portfolio website," and ship whatever comes back. I've seen it done. The output looks fine. Sometimes it even looks good.
 
 That's not what I did — and the difference matters to me.
 
----
+> Check out my live site: (https://www.markjgrover.com/)
+
+{{< figure src="Website5-10-2026.png" title="Mark's Personal Portfolio Website" caption="Mark Grover's Personal Portfolio Website as of March 2026" >}}
 
 ## The Premise
 

@@ -8,13 +8,11 @@ tags: ["AI", "Learning", "ChatGPT"]
 
 # Building My First AI Vacation Planning GPT
 
-_From conference inspiration to a working AI agent_
+{{< figure src="family_RV_trip.png" title="ChatGPT Family RV Trip Planning" caption="ChatGPT Family RV Trip Planning" >}}
 
-Over the last few months, I’ve been spending a lot of time learning about AI transformation, workflow automation, and the emerging world of AI agents. Recently, while attending the All Things AI conference in Durham, NC, one concept kept appearing in session after session:
+Over the last few months, I’ve been spending a lot of time learning about AI transformation, workflow automation, and the emerging world of AI agents. One concept that I've landed on that makes an LLM much more than just a chatbot:
 
 > AI becomes significantly more valuable when it moves beyond simple chat interactions and begins orchestrating workflows.
-
-That idea stuck with me.
 
 I didn’t want to just learn about AI.
 
@@ -82,6 +80,8 @@ Then use that information to:
 Essentially:
 
 > a lightweight AI travel agent.
+
+{{< figure src="family_RV_trip2.png" title="ChatGPT Family RV Trip Planning - Itinerary" caption="ChatGPT Family RV Trip Planning - Itinerary" >}}
 
 ---
 
@@ -226,6 +226,8 @@ For example:
 - If someone traveled during peak summer months, weather considerations could shape itinerary suggestions.
 
 That’s when it stopped feeling like a chatbot and started feeling more like an intelligent assistant.
+
+{{< figure src="family_RV_trip3.png" title="ChatGPT Family RV Trip Planning - Highlights" caption="ChatGPT Family RV Trip Planning - Highlights" >}}
 
 ---
 

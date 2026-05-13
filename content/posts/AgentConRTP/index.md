@@ -12,7 +12,7 @@ tags: ["AI", "Learning"]
 
 ---
 
-I drove to the NC Biotech Center in Durham yesterday for AgentCon Raleigh — part of the Global AI Community's worldwide AI Agents World Tour — and I'm still processing everything I heard. Seven sessions, one full day, and somewhere around four pages of notes scrawled in the margins of my notebook. Here's what stood out.
+I drove to the NC Biotech Center in Durham for AgentCon Raleigh — part of the Global AI Community's worldwide AI Agents World Tour — and I'm still processing everything I heard. Seven sessions, one full day, and somewhere around four pages of notes scrawled in the margins of my notebook. Here's what stood out.
 
 ---
 
@@ -74,13 +74,17 @@ Jonathan opened with something I've definitely experienced: "Most AI agent demos
 
 His answer is Strands Agents, the open-source SDK Amazon teams used internally to compress their agent shipping timelines from months to weeks. The core idea is a model-driven agentic loop — reason, act, reflect — that's simple enough to get started quickly but extensible enough to survive real traffic, real edge cases, and real users.
 
-He live-coded an agent from scratch during the session, added tools, and narrated every step of what was happening. By the end I had a much cleaner mental model for how production agents should be structured. The "stop fighting your framework" message is something I want to paste above my desk.
+He live-coded an agent from scratch during the session, added tools, and narrated every step of what was happening. By the end I had a much clearer mental model for how production agents should be structured. The "stop fighting your framework" message is something I want to paste above my desk.
 
 ---
 
 ## Brownfield vs. Greenfield AI: Same Tools, Different Playbooks — Chris Perrin
 
 Chris might have delivered the most _immediately applicable_ session of the day. His setup: he builds solo greenfield products at night and leads enterprise brownfield engineering teams by day. That dual perspective made this talk genuinely different.
+
+> **Greenfield software development** refers to developing a system for a totally new environment and requires development from a clean slate – no legacy code around. It is an approach used when you’re starting fresh and with no restrictions or dependencies.
+>
+> **Brownfield software development** refers to the development and deployment of a new software system in the presence of existing or legacy software systems. Brownfield application development usually happens when you want to develop or improve upon an existing application, and compels you to work with previously created code.
 
 The big insight is one most teams discover the hard way — the wrong playbook can cost you a sprint. Prompting an AI to generate code for a legacy codebase the same way you'd prompt it for a greenfield project is a recipe for "local correctness, global incompatibility." The code looks fine. The system breaks.
 
